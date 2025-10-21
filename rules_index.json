@@ -1,26 +1,62 @@
- [
-   { "id":"106","name":"Krixi Phù thủy thời không" },
-   { "id":"106","name":"Krixi Lốc Xoáy Kinh Hoàng" },
-   { "id":"111","name":"Violet Nobara Kugisaki" },
-   { "id":"111","name":"Violet Vọng nguyệt Long Cơ" },
-   { "id":"111","name":"Violet Huyết ma thần" },
-   { "id":"116","name":"Butterfly Phượng Cửu Thiên" },
-   { "id":"130","name":"Airi Bích Hải Thánh Nữ" },
-   { "id":"130","name":"Airi Thứ Nguyên Vệ Thần" },
-   { "id":"132","name":"Hayate Tu Di Thánh Đế" },
-   { "id":"133","name":"Valhein Thứ Nguyên Vệ Thần" },
-   { "id":"136","name":"Ilumia Khải Huyền Thiên Hậu" },
-   { "id":"137","name":"Paine Megumi Fushiguro" },
-   { "id":"141","name":"Lauriel Thứ Nguyên Vệ Thần" },
-   { "id":"150","name":"Nakroth Quỷ Thương Liệp Đế" },
-   { "id":"150","name":"Nakroth Bạch Diện Chiến Thương" },
-   { "id":"129","name":"Triệu Vân Minh Long Chung Đế" },
-   { "id":"167","name":"Ngộ Không Tề Thiên Võ Thánh" },
-   { "id":"167","name":"Ngộ Không Nhóc Tì Bá Đạo" },
-   { "id":"524","name":"Capheny Càn Nguyên Điện Chủ" },
-   { "id":"598","name":"Bolt Baron Thiên Phủ - Tư Mệnh" },
-   { "id":"599","name":"Billow Thiên Tướng - Độ Ách" },
-   { "id":"597","name":"Biron Yuji Itadori" },
-   { "id":"132","name":"Hayate Siêu Đạo Chích Kid" },
-   { "id":"190","name":"Tulen Chí Tôn Kiếm Tiên" }
- ]
+[
+    {
+        "id": "150",
+        "name": "Nakroth (Thần Thoại)"
+    },
+    {
+        "id": "132",
+        "name": "Hayate (Siêu Phẩm)"
+    },
+    {
+        "id": "599",
+        "name": "Billow (Thiên Tướng)"
+    },
+    {
+        "id": "524",
+        "name": "Capheny (Nữ Hoàng)"
+    },
+    {
+        "id": "136",
+        "name": "Ilumia (Long Hậu)"
+    },
+    {
+        "id": "106",
+        "name": "Krixi (Phù Thủy)"
+    },
+    {
+        "id": "141",
+        "name": "Lauriel (Vệ Thần)"
+    },
+    {
+        "id": "167",
+        "name": "Ngộ Không (Xích Diễm)"
+    },
+    {
+        "id": "137",
+        "name": "Paine (Thợ Săn)"
+    },
+    {
+        "id": "174",
+        "name": "Stuart (Phản Diện)"
+    },
+    {
+        "id": "501",
+        "name": "Tel'annas (Thần Sứ)"
+    },
+    {
+        "id": "190",
+        "name": "Tulen (Kiếm Tiên)"
+    },
+    {
+        "id": "109",
+        "name": "Veera (Phù Thủy)"
+    },
+    {
+        "id": "111",
+        "name": "Violet (Súng Thủ)"
+    },
+    {
+        "id": "115",
+        "name": "Yorn (Xạ Thủ)"
+    }
+]
