@@ -1,6 +1,6 @@
  [
    { "id":"106","name":"Krixi Phù thủy thời không" },
-   { "id":"106","name":"Krixi Tatsumaki" },
+   { "id":"106","name":"Krixi Phù Thủy Thời Không" },
    { "id":"111","name":"Violet Nobara Kugisaki" },
    { "id":"111","name":"Violet Vọng nguyệt Long Cơ" },
    { "id":"111","name":"Violet Huyết ma thần" },
@@ -14,11 +14,16 @@
    { "id":"141","name":"Lauriel Thứ Nguyên Vệ Thần" },
    { "id":"150","name":"Nakroth Quỷ Thương Liệp Đế" },
    { "id":"150","name":"Nakroth Bạch Diện Chiến Thương" },
-   { "id":"157","name":"Raz Bão Vũ Cuồng Lôi" },
+   { "id":"129","name":"Triệu Vân Minh Long Chung Đế" },
    { "id":"167","name":"Ngộ Không Tề Thiên Võ Thánh" },
    { "id":"167","name":"Ngộ Không Nhóc Tì Bá Đạo" },
    { "id":"524","name":"Capheny Càn Nguyên Điện Chủ" },
    { "id":"524","name":"Capheny Càn Nguyên Điện Chủ" },
    { "id":"598","name":"Bolt Baron Thiên Phủ - Tư Mệnh" },
-   { "id":"599","name":"Billow Thiên Tướng - Độ Ách" }
+   { "id":"599","name":"Billow Thiên Tướng - Độ Ách" },
+   { "id":"130","name":"Airi Bích Hải Thánh Nữ" },
+   { "id":"130","name":"Airi Thứ Nguyên Vệ Thần" },
+   { "id":"131","name":"Murad Thiên Luân Kiếm Thánh" },
+   { "id":"597","name":"Biron Yuji Itadori" },
+   { "id":"132","name":"Hayate Siêu Đạo Chích Kid" }
  ]
